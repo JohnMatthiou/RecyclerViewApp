@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecyclerViewApp</string>
+    <string name="sample_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus distinctio, sint! A aliquam fuga hic in, provident reprehenderit! Debitis deserunt earum excepturi facilis fuga ipsum iusto laborum necessitatibus, rerum! Magni!
+    </string>
+    <string name="places01">Around 36 km north of Argostoli, the capital city of Kefalonia, lies the tiny yet enhancing village of Assos, a hidden, artistically beautiful place that will provide you with a very relaxing experience and is worth visiting!</string>
+    <string name="places02">Situated just outside Sami, the Cave of Melissani in Kefalonia has a strange appeal. It is one of the most significant places for tourists to visit in Greece. Surprisingly, a lake lies inside the cave, with trees and forests surrounding it.</string>
+    <string name="places03">The Drogarati Cave in Kefalonia was discovered 300 years ago and opened to the public in 1963. It was discovered when a strong earthquake caused a collapse that revealed the cave\'s entrance. Drogarati is an impressive cave with remarkable formations of stalactites and stalagmites.</string>
+    <string name="places04">The lighthouse of Saint Theodoroi in Kefalonia lies on an artificial peninsula close to Argostoli, the island\'s capital. It is a white, circular structure made up of 20 columns, and its tower is 8 meters tall. The building has a rather simple architectural design reminiscent of the Doric style, and it shines white light that reaches five miles. </string>
+    <string name="places05">The Venetian Castle of Assos in Kefalonia is a proclaimed European Heritage Site and one of the two remaining fortresses in Kefalonia, indicative of Venetian Military Architecture and one of the largest castles in Greece.</string>
+    <string name="places06">Antisamos Beach is arguably one of the most favorable destinations for swimming and sunbathing in Kefalonia. It is located 30.6 km east of Argostoli and pretty close to the port of Sami. Antisamos stands out for its natural beauty which consists of turquoise waters and a marvelous surrounding of green hills and lush vegetation on top of it. </string>
+</resources>
