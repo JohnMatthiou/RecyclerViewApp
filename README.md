@@ -28,7 +28,10 @@ cd your-repository
 ```
 
 ## Screenshots 📷
-
+<p>
+  <img src="https://github.com/user-attachments/assets/20d1266c-18ce-419d-a1a3-d21d3f080482" width="315" height="666" />
+  <img src="https://github.com/user-attachments/assets/4739faae-84b3-41f9-96f2-8483704865a2" width="315" height="666" />
+</p>
 
 <p align="center">
   Made by Ioannis Matthioudakis (https://github.com/JohnMatthiou)
